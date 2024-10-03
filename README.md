@@ -6,6 +6,12 @@
 **What we are describing**
 Entities, Atributes, Relations between Entities
 
+**Modeling application requirements**
+• In a less technical way than using tables
+• Avoiding redundancy / achieving a concise model
+• Documenting conceptual constraints
+• Avoiding problems (e.g. with braces)
+
 ## Diagram E-R
 #### ![image](https://github.com/user-attachments/assets/78ed5296-2640-4231-ae04-742d0e0d2f3c)
 #### ![ER: Relation](https://github.com/user-attachments/assets/3c281c15-25da-427a-9e1c-78343a7933e0)
