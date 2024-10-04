@@ -20,3 +20,5 @@ Entities, Atributes, Relations between Entities
 
 # WEEK 0
 **SPARKY** https://sites.google.com/utec.edu.pe/cs2031/semana-0/master-classes/termin
+POSTMAN -> https://www.postman.com/student-program/student-expert/?utm_campaign=SP&utm_medium=referral&utm_source=educator&utm_term=uni-utec&utm_content=classroom-programhttps://www.postman.com/student-program/student-expert/?utm_campaign=SP&utm_medium=referral&utm_source=educator&utm_term=uni-utec&utm_content=classroom-program
+OTHER -> https://academy.postman.com/
